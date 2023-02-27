@@ -104,4 +104,4 @@ DRIVER_PATH = r'chromedriver.exe'
 search_term = 'trump'
 # num of images you can pass it from here  by default it's 10 if you are not passing
 #number_images = 50
-search_and_download(search_term=search_term, driver_path=DRIVER_PATH, number_images=50)
+search_and_download(search_term=search_term, driver_path=DRIVER_PATH, number_images=30)
